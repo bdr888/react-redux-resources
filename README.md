@@ -1,7 +1,7 @@
 
 “In the beginner's mind there are many possibilities, but in the expert's there are few”
 
-#H1 Resources:
+##Resources:##
 Netflix JavaScript Talks - React plus X: Best Practices for Reusable UI Components
 https://www.youtube.com/watch?v=Yy7gFgETp0o
 
@@ -42,7 +42,7 @@ Should I use React.createClass, ES6 Classes or stateless functional components?
 http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-functional-components/
 
 
-#H1 React vs Angular reading:
+## React vs Angular reading:##
 
 Angular vs React : A Side-By-Side Comparison
 https://www.pluralsight.com/guides/front-end-javascript/angular-vs-react-a-side-by-side-comparison
