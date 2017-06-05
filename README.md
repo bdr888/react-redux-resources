@@ -44,6 +44,15 @@ http://jamesknelson.com/should-i-use-react-createclass-es6-classes-or-stateless-
 
 ## React vs Angular reading:
 
+### Angular vs. React - the tie breaker
+https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker
+
+### React vs AngularJS – How the two Compare
+https://www.codementor.io/reactjs/tutorial/react-vs-angularjs
+
+### Angular 2 vs React: The Ultimate Dance Off
+https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c
+
 ### Angular vs React : A Side-By-Side Comparison
 https://www.pluralsight.com/guides/front-end-javascript/angular-vs-react-a-side-by-side-comparison
 
