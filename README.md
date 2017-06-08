@@ -2,6 +2,11 @@
 “In the beginner's mind there are many possibilities, but in the expert's there are few”
 
 ## Resources:
+
+## Background:
+### Material-UI
+http://www.material-ui.com/#/get-started/required-knowledge
+
 ### Netflix JavaScript Talks - React plus X: Best Practices for Reusable UI Components
 https://www.youtube.com/watch?v=Yy7gFgETp0o
 
