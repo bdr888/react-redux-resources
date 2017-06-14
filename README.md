@@ -72,25 +72,25 @@ https://www.sitepoint.com/react-vs-angular/
 https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595faafd51
 
 #### Ang's strengths
-+##### Framework vs Library
++ Framework vs Library
     "Since Angular is a framework, it provides significantly more opinions and functionality out of the box. With React, you typically pull a number of other libraries off the shelf to build a real app. "
 
-+##### Typescript enforces consistency, in React much ES5 and ES6 all over the place
++ Typescript enforces consistency, in React much ES5 and ES6 all over the place
     Sure, TypeScript isn’t loved by all, but Angular 2’s opinionated take on which flavor of JavaScript to use is a big win. React examples across the web are frustratingly inconsistent — it’s presented in ES5 and ES6 in roughly equal numbers
 
-+##### Ang more mature, maintained by one team. React relies on ecosystem of open source libs that can churn
++ Ang more mature, maintained by one team. React relies on ecosystem of open source libs that can churn
 
-+##### Tooling - support for JSX (now not a concern i don't think)
++ Tooling - support for JSX (now not a concern i don't think)
 
 #### React strenghts
-+##### JSX
++ JSX
       >everything in one file - code completion helps coding components (not in a separate file)
 
-+##### Fails fast and explicitly
++ Fails fast and explicitly
       >JSX will fail at compilation, not at run-time like in Ang.
       It will also give you line number - speeds development
 
-+##### JS centric
++ JS centric
     >"Angular 2 continues to put “JS” into HTML. React puts “HTML” into JS."
     "JavaScript is far more powerful than HTML. Thus, it’s more logical to enhance JavaScript to support markup than to enhance HTML to support logic."
     "Ember: {{# each}}
@@ -99,11 +99,11 @@ https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595
     Knockout: data-bind=”foreach”
     React: JUST USE JS. :)"
 
-+##### "Luxurious Dev experience"
++ "Luxurious Dev experience"
     >"JSX’s code completion support, compile-time checks, and rich error messaging already create an excellent development experience that saves both typing and time"
 
-+##### Size
++ Size
       >It's way smaller (up to 4 times in a simple todo app (Ang 2 will get smaller)), not a complete framework with a bunch of functionality you aren't even using
 
-+##### Embraces the Unix philosophy
++ Embraces the Unix philosophy
       >"The philosophy of small, composable, single-purpose tools never goes out of style."# react-redux-resources
