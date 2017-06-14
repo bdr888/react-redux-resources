@@ -84,14 +84,14 @@ https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595
 
 #### React strenghts
 ##### JSX
-      everything in one file - code completion helps coding components (not in a separate file)
+      >everything in one file - code completion helps coding components (not in a separate file)
 
 ##### Fails fast and explicitly
-      JSX will fail at compilation, not at run-time like in Ang.
+      >JSX will fail at compilation, not at run-time like in Ang.
       It will also give you line number - speeds development
 
 ##### JS centric
-    "Angular 2 continues to put “JS” into HTML. React puts “HTML” into JS."
+    >"Angular 2 continues to put “JS” into HTML. React puts “HTML” into JS."
     "JavaScript is far more powerful than HTML. Thus, it’s more logical to enhance JavaScript to support markup than to enhance HTML to support logic."
     "Ember: {{# each}}
     Angular 1: ng-repeat
@@ -100,10 +100,10 @@ https://medium.freecodecamp.com/angular-2-versus-react-there-will-be-blood-66595
     React: JUST USE JS. :)"
 
 ##### "Luxurious Dev experience"
-    "JSX’s code completion support, compile-time checks, and rich error messaging already create an excellent development experience that saves both typing and time"
+    >"JSX’s code completion support, compile-time checks, and rich error messaging already create an excellent development experience that saves both typing and time"
 
 ##### Size
-      It's way smaller (up to 4 times in a simple todo app (Ang 2 will get smaller)), not a complete framework with a bunch of functionality you aren't even using
+      >It's way smaller (up to 4 times in a simple todo app (Ang 2 will get smaller)), not a complete framework with a bunch of functionality you aren't even using
 
 ##### Embraces the Unix philosophy
-      "The philosophy of small, composable, single-purpose tools never goes out of style."# react-redux-resources
+      >"The philosophy of small, composable, single-purpose tools never goes out of style."# react-redux-resources
